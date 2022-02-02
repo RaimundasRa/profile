@@ -1,0 +1,118 @@
+body {
+  background-color: #F6F4F4;
+  margin: 10px;
+  padding: 5px;
+}
+
+h1 {
+  font-family: 'Comfortaa', cursive;
+  font-weight: 700;
+  color: #505568;
+}
+
+h2 {
+  font-family: 'Comfortaa', cursive;
+  font-weight: 300;
+  font-size: 20px;
+  color: #757C95;
+}
+
+h3 {
+  font-family: 'Comfortaa', cursive;
+  font-weight: 300;
+  font-size: 20px;
+  color: #757C95;
+}
+
+
+p {
+  font-family: 'Comfortaa', cursive;
+  font-weight: 300;
+  font-size: 15px;
+  color: #757C95;
+}
+
+#profile-pic {
+  border-radius: 50px;
+}
+
+div {
+  text-align: center;
+  width: 750px;
+  margin: 15px auto;
+  background-color: #FAF9F9;
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+
+div:hover {
+  background-color: #E3DDDD;
+  transform: scale(1.1);
+  box-shadow: 0 0 11px rgba(33,33,33,.3);
+
+ }
+
+ul {
+  display: inline;
+  /* list-style-type: none; */
+  padding: 0 100px;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+  color: #89B0AE;
+}
+
+a:hover {
+  color: #357572;
+}
+
+.icon-placement {
+  margin: 50px;
+}
+
+.things-list {
+  margin: 15px;
+  padding: 20px;
+  font-family: 'Comfortaa', cursive;
+  font-weight: 300;
+  font-size: 15px;
+  color: #757C95;
+}
+
+.button {
+  background-color: #F6F4F4;
+  border-radius: 5px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  font-family: 'Comfortaa', cursive;
+}
+
+.button:hover {
+  background-color: #C2D6D6;
+}
+
+.text-box {
+  border-radius: 2px;
+  border: solid 1px gray;
+  text-align: center;
+  width: 150px;
+}
+
+.horror-link {
+   transition: all .2s ease-in-out;
+}
+
+.horror-link:hover {
+  color: #DC143C;
+  font-size: 150%;
+}
+
+.radio {
+  font-family: 'Comfortaa', cursive;
+  font-size: 15px;
+}
